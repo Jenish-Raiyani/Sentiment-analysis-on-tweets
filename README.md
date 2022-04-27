@@ -31,5 +31,4 @@ Random Forest:
  
 ![image](https://user-images.githubusercontent.com/66068702/165537331-2aea2942-3999-4456-97b2-ff7e40ae1d84.png)
 
- 
-![image](https://user-images.githubusercontent.com/66068702/165534871-a6116268-9197-4c0b-aafd-56305a6035c1.png)
+![image](https://user-images.githubusercontent.com/66068702/165537573-0473a528-76c4-440b-bdba-8e0011111a36.png)
