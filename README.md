@@ -12,5 +12,24 @@ Text data from tweets is considered a feature and Bag-of-Words techniques are us
 To choose optimal parameter for machine learning model I have applied hyperparameter tuning technique. In this process I have used GridSearchCV sklearn library. This library allows you to iterate through specified hyperparameters and fit our model to training data and from result we can choose the best hyperparameters for our model. 
 5.	Algorithms used:
 Four classification algorithms are used in this project. Random forest, SVM, nave bayes, and logistic regression The accuracy of logistic is 0.75, naive Bayes is 73, SVM is 0.75, and random forest is 0.73.
+
+ 
+Logistic Regression:
+ 
+![image](https://user-images.githubusercontent.com/66068702/165537275-c2d16908-899f-4a52-be92-0913ebad1b2a.png)
+
+Bernoulli Naïve Bayes:
+
+![image](https://user-images.githubusercontent.com/66068702/165537294-f6ccb3bb-1c8d-460e-a79b-85f247982464.png)
+ 
+
+Support Vector Machine:
+
+![image](https://user-images.githubusercontent.com/66068702/165537308-91501e98-7a37-4b08-9e4b-06e4ddb3e1e6.png) 
+
+Random Forest:
+ 
+![image](https://user-images.githubusercontent.com/66068702/165537331-2aea2942-3999-4456-97b2-ff7e40ae1d84.png)
+
  
 ![image](https://user-images.githubusercontent.com/66068702/165534871-a6116268-9197-4c0b-aafd-56305a6035c1.png)
