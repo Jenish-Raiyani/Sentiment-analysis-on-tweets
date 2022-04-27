@@ -13,4 +13,4 @@ To choose optimal parameter for machine learning model I have applied hyperparam
 5.	Algorithms used:
 Four classification algorithms are used in this project. Random forest, SVM, nave bayes, and logistic regression The accuracy of logistic is 0.75, naive Bayes is 73, SVM is 0.75, and random forest is 0.73.
  
-![image](https://user-images.githubusercontent.com/66068702/165518327-b4b1e2ae-4615-487d-8699-2bfb5e67b95a.png)
+![image](https://user-images.githubusercontent.com/66068702/165534871-a6116268-9197-4c0b-aafd-56305a6035c1.png)
